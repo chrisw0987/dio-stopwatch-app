@@ -1,8 +1,28 @@
-# React + Vite
+## ⏱️ Dio Stopwatch App Project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- A JoJo's Bizarre Adventure-inspired stopwatch featuring Dio Brando and The World, allowing users to time events with a stylish and anime-themed design.
 
-Currently, two official plugins are available:
+## 😧 Features:
+- ⏳ Start, Stop, and Reset Stopwatch with responsive controls that, when clicked, have sound effects.
+- 🎭 JoJo Anime Theme featuring Dio Brando and The World.
+- 🎨 Dynamic UI Design with a themed background and smooth animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  📸 Screenshot: 
+- ![Dio Stopwatch Screenshot](Dio-Stopwatch-Demo.png)
+
+##  🌍 LIVE DEMO:
+- Try it Out: https://chrisw0987.github.io/dio-stopwatch-app/
+
+## 🛠 Tech Stack:
+- **Frontend:** React.js, Vite
+- **Styling:** CSS, Animations
+- **Tools**: GitHub, VS Code
+
+
+## 📦 Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://chrisw0987.github.io/dio-stopwatch-app/
+2. cd dio-stopwatch-app
+3. npm install
+4. npm run dev
